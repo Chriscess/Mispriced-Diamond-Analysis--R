@@ -11,9 +11,9 @@
  Very, Very Slightly Included (VVS1 and VVS2)-Inclusions are characterized as minute and are so slight that they are difficult for a skilled grader to see under 10x magnification. 
  Very Slightly Included (VS1 and VS2)-Inclusions are observed with effort under 10x magnification but can be characterized as minor.   
  Slightly Included (SI1 and SI2)-Inclusions are noticeable under 10x magnification.   
- Included (I1, I2, and I3)-![image](https://github.com/user-attachments/assets/7f45cb01-2996-4b21-967f-58029728fde0)
-Inclusions are obvious under 10x magnification, which may affect transparency and brilliance.
+ Included (I1, I2, and I3)-Inclusions are obvious under 10x magnification, which may affect transparency and brilliance.
 
+ ![image](https://github.com/user-attachments/assets/7f45cb01-2996-4b21-967f-58029728fde0)
 
  ![image](https://github.com/user-attachments/assets/c5435ed7-208f-46df-b07a-fea8aae445f7)
 
